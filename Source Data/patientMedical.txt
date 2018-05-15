@@ -1,0 +1,50 @@
+1   7   Outdoor   Medical History   Treatment   Aches, Pain, Fever   795
+2   3   Indoor   Medical History   Treatment   Achalasia   2825
+3   1   Outdoor   Medical History   Treatment   Aches, Pain, Fever   7045
+4   9   Outdoor   Medical History   Treatment   Hearing disorders   9530
+5   9   Indoor   Medical History   Treatment   Chikungunya   3415
+6   5   Outdoor   Medical History   Treatment   Hearing disorders   3590
+7   10   Outdoor   Medical History   Treatment   cold   9645
+8   10   Outdoor   Medical History   Treatment   ulcer   1190
+9   6   Outdoor   Medical History   Treatment   Chikungunya   5735
+10   2   Outdoor   Medical History   Treatment   Chikungunya   3285
+11   5   Indoor   Medical History   Treatment   cold   2985
+12   9   Indoor   Medical History   Treatment   Aches, Pain, Fever   3275
+13   8   Outdoor   Medical History   Treatment   Dengue   2430
+14   7   Outdoor   Medical History   Treatment   ulcer   8535
+15   10   Indoor   Medical History   Treatment   ulcer   2915
+16   4   Indoor   Medical History   Treatment   Hearing disorders   6875
+17   7   Indoor   Medical History   Treatment   Aches, Pain, Fever   4680
+18   2   Indoor   Medical History   Treatment   Aches, Pain, Fever   4530
+19   9   Outdoor   Medical History   Treatment   Chikungunya   2785
+20   4   Indoor   Medical History   Treatment   Chikungunya   8210
+21   4   Outdoor   Medical History   Treatment   Dengue   8865
+22   7   Indoor   Medical History   Treatment   ulcer   515
+23   9   Outdoor   Medical History   Treatment   ulcer   1705
+24   3   Outdoor   Medical History   Treatment   Typhoid   7835
+25   5   Indoor   Medical History   Treatment   Achalasia   7305
+26   5   Outdoor   Medical History   Treatment   ulcer   3720
+27   6   Indoor   Medical History   Treatment   Typhoid   885
+28   8   Outdoor   Medical History   Treatment   ulcer   1730
+29   5   Outdoor   Medical History   Treatment   Hearing disorders   2525
+30   6   Outdoor   Medical History   Treatment   Dengue   6210
+31   7   Outdoor   Medical History   Treatment   Chikungunya   7820
+32   5   Indoor   Medical History   Treatment   Dengue   3400
+33   4   Indoor   Medical History   Treatment   Aches, Pain, Fever   845
+34   9   Indoor   Medical History   Treatment   Dengue   8020
+35   3   Indoor   Medical History   Treatment   Dengue   3265
+36   6   Indoor   Medical History   Treatment   Dengue   1065
+37   4   Indoor   Medical History   Treatment   Aches, Pain, Fever   9390
+38   7   Indoor   Medical History   Treatment   Achalasia   5505
+39   10   Outdoor   Medical History   Treatment   cold   3815
+40   10   Indoor   Medical History   Treatment   ulcer   3075
+41   1   Indoor   Medical History   Treatment   Dengue   5170
+42   7   Outdoor   Medical History   Treatment   Dengue   8430
+43   3   Indoor   Medical History   Treatment   Aches, Pain, Fever   940
+44   1   Outdoor   Medical History   Treatment   Hearing disorders   8885
+45   3   Indoor   Medical History   Treatment   Chikungunya   625
+46   7   Indoor   Medical History   Treatment   Aches, Pain, Fever   5090
+47   1   Indoor   Medical History   Treatment   Achalasia   6425
+48   10   Indoor   Medical History   Treatment   Chikungunya   5175
+49   7   Outdoor   Medical History   Treatment   ulcer   5345
+50   8   Outdoor   Medical History   Treatment   cold   9005s
